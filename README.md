@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Nice meeting you, I'm Diya !<br><br>💻 I'm a Final Year CSE student at IIIT Bhubaneswar<br>🚀 Focused on Web Development, DSA and building clean, user-friendly applications<br>🌐 Connect with me:  LinkedIn - @diya-mandal<br>😄 Pronouns: She/Her<br>⚡ Fun fact: If I’m not coding, I’m probably lost in music 🎧
+Hi there 👋<br>Nice meeting you, I'm Diya !<br><br>💻 I'm a Final Year CSE student at IIIT Bhubaneswar<br>🚀 Web Developer & DSA Enthusiast<br>🌐 Connect with me:  LinkedIn - @diya-mandal<br>😄 Pronouns: She/Her<br>⚡ Fun fact: If I’m not coding, I’m probably lost in music 🎧
 
 
 ## 🌐 Socials:
